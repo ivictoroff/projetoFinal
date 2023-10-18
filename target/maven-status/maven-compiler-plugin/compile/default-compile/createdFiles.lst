@@ -1,0 +1,5 @@
+com\projetobasico\model\dao\PessoaJpaDao.class
+com\projetobasico\model\Pessoa.class
+com\projetobasico\package-info.class
+com\projetobasico\view\Main.class
+com\projetobasico\model\dao\EntityJpaDao.class
